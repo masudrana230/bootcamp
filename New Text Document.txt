@@ -1,0 +1,13 @@
+Suchi: 
+
+1. Top header
+2. Main header
+3. Banner - attractive banner/ professional design
+4.Feature-section - icon, title and small description
+5. Service section
+6. About section
+7. Testimonial section
+8. Contact section
+9. call to action
+10. Footer
+11. copyright footer
